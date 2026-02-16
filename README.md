@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Jackson+Richard;Aspiring+Cloud+%26+Backend+Developer;System+Builder+%7C+Logic+First+Mindset;Turning+Chaos+into+Clean+Systems" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Jackson Richard</h1>
+<h1 align="center">Hi  I'm Jackson Richard</h1>
 <h3 align="center">An aspiring Cloud & Backend Developer</h3>
 
 - 🔭 Personal AI Assistant **F.R.I.D.A.Y**
