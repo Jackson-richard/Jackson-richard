@@ -1,74 +1,29 @@
 <!-- ======================= ARC REACTOR ONLINE ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=SYSTEM%20ONLINE&fontSize=40&fontColor=00eaff&animation=fadeIn" />
+  <img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="600" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Jackson+Richard;Aspiring+Cloud+%26+Backend+Developer;System+Builder+%7C+Logic+First+Mindset;Turning+Chaos+into+Clean+Systems" />
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Jackson Richard</h1>
+<h3 align="center">An aspiring Cloud & Backend Developer</h3>
 
-## 🧠 WHO I AM
+- 🔭 Personal AI Assistant **F.R.I.D.A.Y**
 
-```txt
-Name        : Jackson Richard
-Role        : B.Tech Information Technology Student
-Focus       : Backend Systems • Cloud Foundations • Scalable Design
-Approach    : Understand deeply → Build clean → Improve relentlessly
+- Backend & Cloud fundamentals **Node.js, REST APIs, cloud basics**
 
+- Email **jacksonrich.c@gmail.com**
 
-### ⚙️ ARC REACTOR — SKILL CORE
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jacksonrichard-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacksonrichard-j" height="30" width="40" /></a>
+</p>
 
-**Core Skills**
-- Python
-- JavaScript
-- React
-- HTML / CSS
-- Node.js & Express
-
-**Working Knowledge**
-- SQL (Basics)
-- Java (Basics)
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,nodejs,express,sql,java,git,github,linux&theme=dark" /> </p>
----
-
-## 🧩 FLAGSHIP PROJECT
-
-### 🔐 Aegis — Secure Voting System
-A system-focused project designed to improve trust, integrity, and structure in digital voting workflows.
-
-**Tech Stack:**  
-React • Node.js • Express
-
-What it demonstrates:
-
-Clear separation of concerns
-
-Backend-driven logic
-
-Security-first thinking (by design, not buzzwords)
-
-This project reflects how I think, not just what I code.
-
-## 🛠️ HOW I BUILD
-
-I start by understanding the problem deeply, not rushing to code.
-
-I break systems into clear responsibilities, keep logic simple,  
-and focus on designs that can evolve without breaking.
-
-When I use tools or frameworks, I make sure I understand  
-*why they exist* and *what problem they solve*  not just how to use them.
-
-
-📊 SYSTEM TELEMETRY
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jackson-richard&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackson-richard&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-richard&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🌐 CONNECT TO THE NETWORK
-<p align="center"> <a href="mailto:jacksonrich.c@gmail.com"> <img src="https://img.shields.io/badge/Gmail-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/jacksonrichard-j/"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://jackson-richard.github.io/FWD-Interactive-Digital-Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-00eaff?style=for-the-badge&logo=vercel&logoColor=black" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=ARC%20REACTOR%20STABLE&fontSize=24&fontColor=00eaff" /> </p> ```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
 
