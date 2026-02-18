@@ -61,4 +61,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
   </a>
+</p> 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bc/c6/0d/bcc60ddae472441695397171c80e3297.gif" />
 </p>
