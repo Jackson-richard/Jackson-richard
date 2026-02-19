@@ -11,7 +11,7 @@
 <h1 align="center">Hi  I'm Jackson Richard</h1>
 <h3 align="center">An aspiring Cloud & Backend Developer</h3>
 
-- 🔭 Personal AI Assistant **F.R.I.D.A.Y**
+- 🔭 Trying to build a  Personal AI Assistant called **F.R.I.D.A.Y**
 
 - Backend & Cloud fundamentals **Node.js, REST APIs, cloud basics**
 
