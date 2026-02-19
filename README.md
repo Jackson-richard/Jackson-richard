@@ -15,7 +15,7 @@
 
 - Backend & Cloud fundamentals **Node.js, REST APIs, cloud basics**
 
-- Email **jacksonrich.c@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
