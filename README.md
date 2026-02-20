@@ -12,7 +12,7 @@
 <h3 align="center">An aspiring Cloud & Backend Developer</h3>
 
 - 🔭 Trying to build a  Personal AI Assistant called **F.R.I.D.A.Y**
-
+- Curious to make projects
 - Backend & Cloud fundamentals **Node.js, REST APIs, cloud basics**
 
 
