@@ -14,6 +14,7 @@
 - 🔭 Trying to build a  Personal AI Assistant called **F.R.I.D.A.Y**
 - Curious to make projects
 - Backend & Cloud fundamentals **Node.js, REST APIs, cloud basics**
+- interested in machine learning
 
 
 
