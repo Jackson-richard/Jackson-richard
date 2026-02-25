@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Jackson+Richard;Aspiring+Cloud+%26+Backend+Developer;System+Builder+%7C+Logic+First+Mindset;Turning+Chaos+into+Clean+Systems" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Homelab%20Engineering-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-DevOps-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-AI%20Infrastructure-6f42c1?style=flat-square" />
+</p>
+
 <h1 align="center">Hi  I'm Jackson Richard</h1>
 <h3 align="center">An aspiring Cloud & Backend Developer</h3>
 
