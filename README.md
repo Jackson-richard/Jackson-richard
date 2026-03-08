@@ -139,7 +139,7 @@ Learning fast, building often, and improving through iteration.
 
 <div align="center">
 
-> **"I shouldn't be alive... unless it was for a reason."**  
+> **"Sometimes you gotta run before you can walk"**  
 > — Tony Stark
 
 </div>
