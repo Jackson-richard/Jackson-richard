@@ -1,71 +1,123 @@
-<!-- ======================= ARC REACTOR ONLINE ======================= -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=800&color=00CFFF&center=true&vCenter=true&width=650&lines=Initializing+J.A.R.V.I.S+Interface...;Jackson+Online;Developer+%7C+Cloud+Explorer+%7C+Builder" />
+
+<img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="600" />
+
+</div>
+
+---
+
+# ⚙️ Jackson | Developer Console
+
+```
+SYSTEM STATUS : ACTIVE
+ROLE          : B.Tech IT Student
+LOCATION      : India
+MISSION       : Build intelligent systems like J.A.R.V.I.S
+FOCUS         : Cloud • Programming • Web Development
+```
+
+I enjoy building **intelligent tools, automation systems, and modern web applications**.  
+Currently exploring **cloud infrastructure, AI assistants, and scalable backend systems**.
+
+---
+
+# 🚀 Current Focus
+
+- Building **AI Personal Assistant (F.R.I.D.A.Y Project)**
+- Learning **Cloud Computing**
+- Practicing **Data Structures & Algorithms**
+- Exploring **3D Character Design & Animation**
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="600" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
+
+### Web Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Jackson+Richard;Aspiring+Cloud+%26+Backend+Developer;System+Builder+%7C+Logic+First+Mindset;Turning+Chaos+into+Clean+Systems" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
+
+### Database
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Homelab%20Engineering-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Exploring-DevOps-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-AI%20Infrastructure-6f42c1?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-<h1 align="center">Hi  I'm Jackson Richard</h1>
-<h3 align="center">An aspiring Cloud & Backend Developer</h3>
+### Tools
 
-- 🔭 Trying to build a  Personal AI Assistant called **F.R.I.D.A.Y**
-- Curious to make projects
-- Backend & Cloud fundamentals **Node.js, REST APIs, cloud basics**
-- interested in machine learning
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jacksonrichard-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacksonrichard-j" height="30" width="40" /></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
-</p> 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=00CFFF&icon_color=00CFFF&text_color=ffffff&bg_color=0d1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" />
+
+</p>
+
+---
+
+# 🧠 Competitive Programming
+
+<p align="center">
+
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-Profile-0A192F?style=for-the-badge&logo=leetcode&logoColor=00CFFF"/>
+</a>
+
+<a href="YOUR_CODEFORCES">
+<img src="https://img.shields.io/badge/Codeforces-Profile-0A192F?style=for-the-badge&logo=codeforces&logoColor=00CFFF"/>
+</a>
+
+<a href="YOUR_CODECHEF">
+<img src="https://img.shields.io/badge/CodeChef-Profile-0A192F?style=for-the-badge&logo=codechef&logoColor=00CFFF"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=00CFFF"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-Follow-0A192F?style=for-the-badge&logo=github&logoColor=00CFFF"/>
+</a>
+
+</p>
+
+---
+
+```
+"Sometimes you gotta run before you can walk."
+                        — Tony Stark
+```
+ 
