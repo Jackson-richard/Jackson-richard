@@ -58,7 +58,7 @@ Learning fast, building often, and improving through iteration.
 ### Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,c" />
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
 ### Web Development
