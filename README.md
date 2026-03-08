@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=750&lines=Jackson+Richard+%7C+Developer+%7C+ONLINE+%E2%9A%A1;B.Tech+Information+Technology+%7C+Year+02;DSA+%7C+Web+Dev+%7C+Problem+Solver;%22Sometimes+you+gotta+run+before+you+can+walk.%22;Building+systems.+One+algorithm+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=750&lines=Jackson+Richard+%7C+Developer+%7C+ONLINE+%E2%9A%A1;B.Tech+Information+Technology+%7C+;DSA+%7C+Web+Dev+%7C+Problem+Solver;%22Sometimes+you+gotta+run+before+you+can+walk.%22;Building+systems.+One+algorithm+at+a+time." alt="Typing SVG" />
 </a>
 
 </div>
