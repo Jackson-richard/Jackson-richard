@@ -47,7 +47,7 @@ Learning fast, building often, and improving through iteration.
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF3OWpvdnh2ajAxYTJkYTM0b3RuaGt2ejVudHQzMXlzNHB3Znc1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L36EE2yCn2XHHftQg5/giphy.gif" width="500"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXkyY2h5b2d6eDN1ZXNwYzAzZjFpNHo0ZHQ4eDk1YjA5dGZjOWp6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eGwvKS41BG91ujbRL1/giphy.gif" width="500"/>
 
 </div>
 
