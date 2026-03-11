@@ -97,17 +97,11 @@ Learning fast, building often, and improving through iteration.
 
 <p align="center">
 
-<a href="YOUR_LEETCODE">
+<a href="Yhttps://leetcode.com/u/Jackson_richard/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-0A192F?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
 </a>
 
-<a href="YOUR_CODEFORCES">
-<img src="https://img.shields.io/badge/Codeforces-Profile-0A192F?style=for-the-badge&logo=codeforces&logoColor=00E5FF"/>
-</a>
 
-<a href="YOUR_CODECHEF">
-<img src="https://img.shields.io/badge/CodeChef-Profile-0A192F?style=for-the-badge&logo=codechef&logoColor=00E5FF"/>
-</a>
 
 </p>
 
