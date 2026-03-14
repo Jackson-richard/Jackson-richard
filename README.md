@@ -76,7 +76,7 @@ Learning fast, building often, and improving through iteration.
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
