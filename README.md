@@ -97,7 +97,7 @@ Learning fast, building often, and improving through iteration.
 
 <p align="center">
 
-<a href="Yhttps://leetcode.com/u/Jackson_richard/">
+<a href="https://leetcode.com/u/Jackson_richard/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-0A192F?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
 </a>
 
