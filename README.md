@@ -85,9 +85,9 @@ Learning fast, building often, and improving through iteration.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jackson-richard&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0d1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=00E5FF&fire=00E5FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackson-richard&theme=tokyonight&ring=00E5FF&fire=00E5FF"/>
 
 </p>
 
@@ -101,8 +101,6 @@ Learning fast, building often, and improving through iteration.
 <img src="https://img.shields.io/badge/LeetCode-Profile-0A192F?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
 </a>
 
-
-
 </p>
 
 ---
@@ -110,12 +108,10 @@ Learning fast, building often, and improving through iteration.
 # 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Jackson-richard/Jackson-richard/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
-
-
 
 <div align="center">
 
