@@ -115,21 +115,7 @@ Learning fast, building often, and improving through iteration.
 
 ---
 
-# 🌐 Connect
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-0A192F?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
