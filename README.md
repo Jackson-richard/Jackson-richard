@@ -30,7 +30,7 @@ I enjoy understanding how systems work—from **algorithms and backend architect
 
 My mindset toward engineering is heavily inspired by something Tony Stark once said:
 
-> **"Sometimes you gotta run before you can walk."**
+
 
 Learning fast, building often, and improving through iteration.
 
