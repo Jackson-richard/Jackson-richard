@@ -1,49 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=JACKSON%20RICHARD&fontAlign=50&fontAlignY=45&color=gradient&customColorList=0,2,2,5,30&fontColor=00CFFF&fontSize=50&desc=B.Tech%20IT%20%7C%20Developer%20%7C%20DSA%20%7C%20Problem%20Solver&descAlignY=72&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=JACKSON%20RICHARD&fontAlign=50&fontAlignY=45&color=gradient&customColorList=0,2,2,5,30&fontColor=00CFFF&fontSize=50&desc=B.Tech%20IT%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=72&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=750&lines=Jackson+Richard+%7C+Developer+%7C+ONLINE+;B.Tech+Information+Technology+%7C+;DSA+%7C+Web+Dev+%7C+Problem+Solver;%22Sometimes+you+gotta+run+before+you+can+walk.%22;Building+systems.+One+algorithm+at+a+time." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=21&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=850&lines=Jackson+Richard+%7C+DevOps+Engineer;B.Tech+Information+Technology;DevOps+%7C+Cloud+%7C+CI%2FCD;Docker+%7C+Linux+%7C+GitHub+Actions;Automating+Systems.+One+Pipeline+At+A+Time." alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<!-- GIF ROW — Two Iron Man GIFs side by side -->
 <div align="center">
-  <img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="380" alt="Iron Man"/>
-  &nbsp;&nbsp;
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0ZmI1NHoxYjc2d3FhMTA1dWZlYmI3Zm1lejdtZDQ2eXgycmFseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" width="350" alt="Iron Man Suit Up"/>
+
+<img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="430" alt="Iron Man"/>
+
 </div>
 
-<br/>
-# ⚙️ Engineering Profile
-
-Hello, I'm **Jackson**.
-
-B.Tech **Information Technology student** focused on building strong foundations in **software engineering, cloud systems, and intelligent applications**.
-
-I enjoy understanding how systems work—from **algorithms and backend architecture to real-world software products**.
-
-My mindset toward engineering is heavily inspired by something Tony Stark once said:
-
-
-
-Learning fast, building often, and improving through iteration.
-
 ---
 
-# 🚀 Current Engineering Focus
+## ⚙️ ENGINEERING PROFILE
 
-• Strengthening **Data Structures & Algorithms**  
-• Building a **Personal AI Assistant (F.R.I.D.A.Y)**  
-• Exploring **Cloud Computing and Backend Systems**  
-• Learning **3D Design & Character Animation**
+Hello, I'm **Jackson Richard** 👋
 
----
+I'm a **B.Tech Information Technology student** focused on **DevOps, Cloud Computing, Automation, and Software Engineering**.
+
+I enjoy building reliable systems, automating repetitive processes, and understanding how software moves from **code → build → deployment → production**.
+
+```text
+Software Development
+        ↓
+       Git
+        ↓
+     CI / CD
+        ↓
+    Docker
+        ↓
+     Cloud
+        ↓
+  Deployment
+        ↓
+   Monitoring
 
 <div align="center">
 
