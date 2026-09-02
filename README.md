@@ -26,20 +26,7 @@ I'm a **B.Tech Information Technology student** focused on **DevOps, Cloud Compu
 
 I enjoy building reliable systems, automating repetitive processes, and understanding how software moves from **code → build → deployment → production**.
 
-```text
-Software Development
-        ↓
-       Git
-        ↓
-     CI / CD
-        ↓
-    Docker
-        ↓
-     Cloud
-        ↓
-  Deployment
-        ↓
-   Monitoring
+
 
 <div align="center">
 
