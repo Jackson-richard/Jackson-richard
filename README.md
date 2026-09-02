@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=JACKSON%20RICHARD&fontAlign=50&fontAlignY=45&color=gradient&customColorList=0,2,2,5,30&fontColor=00CFFF&fontSize=50&desc=B.Tech%20IT%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=72&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=JACKSON%20RICHARD&fontAlign=50&fontAlignY=43&color=0d1117&fontColor=00E5FF&fontSize=52&desc=DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20AUTOMATION&descAlignY=67&descSize=18&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;DEVOPS+%7C+CLOUD+%7C+CI%2FCD;AUTOMATION+%7C+CONTAINERS+%7C+LINUX;BUILD.+AUTOMATE.+DEPLOY.+IMPROVE." alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=21&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&width=850&lines=Jackson+Richard+%7C+DevOps+Engineer;B.Tech+Information+Technology;DevOps+%7C+Cloud+%7C+CI%2FCD;Docker+%7C+Linux+%7C+GitHub+Actions;Automating+Systems.+One+Pipeline+At+A+Time." alt="Typing SVG"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DEVOPS-ACTIVE-00E5FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CI%2FCD-RUNNING-00E5FF?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -12,21 +16,54 @@
 
 <div align="center">
 
-<img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="430" alt="Iron Man"/>
+<img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="420" alt="Iron Man"/>
+
+### `// SYSTEM INITIALIZED`
 
 </div>
 
 ---
 
-## ⚙️ ENGINEERING PROFILE
+# ⚙️ ENGINEERING PROFILE
 
-Hello, I'm **Jackson Richard** 👋
+Hi, I'm **Jackson Richard** 👋
 
-I'm a **B.Tech Information Technology student** focused on **DevOps, Cloud Computing, Automation, and Software Engineering**.
+I'm a **B.Tech Information Technology student** focused on **DevOps, Cloud Computing, CI/CD, Automation, and Software Engineering**.
 
-I enjoy building reliable systems, automating repetitive processes, and understanding how software moves from **code → build → deployment → production**.
+I enjoy understanding how software moves from **development to production** and building systems that are automated, reliable, and scalable.
 
+## 🎯 DEVOPS ROADMAP
 
+```text
+                    DEVOPS
+                       │
+                       ▼
+                    LINUX
+                       │
+                       ▼
+                     GIT
+                       │
+                       ▼
+                  NETWORKING
+                       │
+                       ▼
+                    DOCKER
+                       │
+                       ▼
+                    CI / CD
+                       │
+                       ▼
+                    CLOUD
+                       │
+                       ▼
+                  TERRAFORM
+                       │
+                       ▼
+                 KUBERNETES
+                       │
+                       ▼
+                MONITORING
+```
 
 <div align="center">
 
