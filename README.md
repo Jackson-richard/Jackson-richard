@@ -1,141 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=JACKSON%20RICHARD&fontAlign=50&fontAlignY=43&color=0d1117&fontColor=00E5FF&fontSize=52&desc=DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20AUTOMATION&descAlignY=67&descSize=18&animation=fadeIn"/>
+# 👋 Hi, I'm Jackson Richard
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;DEVOPS+%7C+CLOUD+%7C+CI%2FCD;AUTOMATION+%7C+CONTAINERS+%7C+LINUX;BUILD.+AUTOMATE.+DEPLOY.+IMPROVE." alt="Typing SVG"/>
+### Full Stack Developer | Cloud & Deployment | Builder
 
-<br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DEVOPS-ACTIVE-00E5FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/CI%2FCD-RUNNING-00E5FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Building-00E5FF?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cloud-8B5CF6?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-00E5FF?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About
 
-<img src="https://i.makeagif.com/media/10-10-2016/apDhTy.gif" width="420" alt="Iron Man"/>
+I'm **Jackson Richard**, a B.Tech Information Technology student who enjoys building
+real-world applications and understanding how things work behind the interface.
 
-### `// SYSTEM INITIALIZED`
+Currently focused on **Full Stack Development**, while building a strong foundation
+in **Linux, Docker, AWS, Git, and cloud deployment**.
 
-</div>
+I like taking an idea from **frontend → backend → database → deployment** and turning
+it into something that actually works.
 
----
-
-# ⚙️ ENGINEERING PROFILE
-
-Hi, I'm **Jackson Richard** 👋
-
-I'm a **B.Tech Information Technology student** focused on **DevOps, Cloud Computing, CI/CD, Automation, and Software Engineering**.
-
-I enjoy understanding how software moves from **development to production** and building systems that are automated, reliable, and scalable.
-
-## 🎯 DEVOPS ROADMAP
-
-```text
-                    DEVOPS
-                       │
-                       ▼
-                    LINUX
-                       │
-                       ▼
-                     GIT
-                       │
-                       ▼
-                  NETWORKING
-                       │
-                       ▼
-                    DOCKER
-                       │
-                       ▼
-                    CI / CD
-                       │
-                       ▼
-                    CLOUD
-                       │
-                       ▼
-                  TERRAFORM
-                       │
-                       ▼
-                 KUBERNETES
-                       │
-                       ▼
-                MONITORING
-```
-
-<div align="center">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXkyY2h5b2d6eDN1ZXNwYzAzZjFpNHo0ZHQ4eDk1YjA5dGZjOWp6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eGwvKS41BG91ujbRL1/giphy.gif" width="500"/>
-
-</div>
+I'm also strengthening my problem-solving skills through **Java and DSA**.
 
 ---
 
-# 🛠 Technology Stack
+## 🚀 What I'm Working On
 
-### Programming
+- 🌐 **Full Stack Development** — Building applications with React, Node.js and REST APIs.
+- ⚙️ **Backend Engineering** — Learning server-side architecture, APIs and databases.
+- ☁️ **Cloud & Deployment** — Learning Linux, Docker and AWS to understand how applications are deployed.
+- 🧠 **DSA in Java** — Practicing problem solving and preparing for technical interviews.
+- 🛠️ **Real-World Projects** — Building projects that combine development, databases and deployment.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js" />
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
-### Web Development
+### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github" />
 </p>
 
 ### Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📚 Currently Learning
 
-<p align="center">
+```text
+Full Stack Development
+React.js → Node.js → Express → REST APIs → Databases
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jackson-richard&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0d1117"/>
+Cloud & Deployment
+Linux → Docker → AWS
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackson-richard&theme=tokyonight&ring=00E5FF&fire=00E5FF"/>
-
-</p>
-
----
-
-# 🧠 Engineering Activity
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Jackson_richard/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-0A192F?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Jackson-richard/Jackson-richard/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<div align="center">
-
-> **"Sometimes you gotta run before you can walk"**  
-> — Tony Stark
-
-</div>
+Problem Solving
+Java → DSA → Interview Preparation
+```
