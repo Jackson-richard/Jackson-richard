@@ -124,8 +124,8 @@ Java → DSA → Interview Preparation
 </p>
 <div align="center">
 
-<img src="https://share.google/puM4AJrBOBUi7Tcm3" width="500" alt="Spider-Man"/>
+<img src="https://31.media.tumblr.com/tumblr_mcca8gOjgy1qi5jk5o1_500.gif" width="500" alt="Spider-Man"/>
 
-> 🕷️ **"With great power, comes great responsibility."**
+>  **"With great power, comes great responsibility."**
 
 </div>
