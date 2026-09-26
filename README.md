@@ -89,3 +89,36 @@ Linux → Docker → AWS
 Problem Solving
 Java → DSA → Interview Preparation
 ```
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jackson-richard&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackson-richard&theme=tokyonight&hide_border=true&ring=00E5FF&fire=00E5FF"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Jackson-richard/Jackson-richard/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+## 🧠 Engineering Activity
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Jackson_richard/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-0A192F?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
+</a>
+
+</p>
