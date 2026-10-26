@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jackson Richard
+# Hi, I'm Jackson Richard
 
 ### Full Stack Developer | Cloud & Deployment | Builder
 
