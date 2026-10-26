@@ -2,7 +2,7 @@
 
 # Hi, I'm Jackson Richard
 
-### AI Engineer | Full Stack Developer | Building Intelligent Applications
+### AI Engineer  | Building Intelligent Applications
 
 <img src="https://img.shields.io/badge/Status-Building-00E5FF?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Machine%20Learning-8B5CF6?style=flat-square&labelColor=0d1117"/>
