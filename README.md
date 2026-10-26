@@ -82,7 +82,7 @@ My goal is to build **reliable, useful, and production-ready AI applications**.
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
 </p>
 
 ### ☁️ Cloud & DevOps
